@@ -21,6 +21,5 @@ O projeto utiliza **Streamlit** para criar uma interface web interativa e integr
 - LLM (Large Language Model)
 
 ##  Como executar o projeto
+  copie e cole no google: http://localhost:8501/
 
-Clone o repositório:
-- Escreva  py -m streamlit run main.py no terminal
