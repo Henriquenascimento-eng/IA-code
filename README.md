@@ -22,4 +22,5 @@ O projeto utiliza **Streamlit** para criar uma interface web interativa e integr
 
 ##  Como executar o projeto
   copie e cole no google: http://localhost:8501/
+  ou clone o repositório e rode no terminal " py -m streamlit run main.py"
 
