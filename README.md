@@ -23,4 +23,4 @@ O projeto utiliza **Streamlit** para criar uma interface web interativa e integr
 ##  Como executar o projeto
 
 Clone o repositório:
-
+- Escreva  py -m streamlit run main.py no terminal
